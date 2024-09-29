@@ -1,0 +1,15 @@
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "blog",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
+  }
+]
