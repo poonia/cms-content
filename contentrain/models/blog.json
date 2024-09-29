@@ -33,5 +33,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "banner-img",
+    "fieldId": "banner-img",
+    "modelId": "blog",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
