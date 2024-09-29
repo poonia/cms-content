@@ -24,5 +24,14 @@
       }
     },
     "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "blog",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
